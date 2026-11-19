@@ -1,3 +1,6 @@
+/* TinyMCE skin — imported here so Parcel inlines it into the HTML <style> block */
+@import "../node_modules/tinymce/skins/ui/oxide/skin.min.css";
+
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
